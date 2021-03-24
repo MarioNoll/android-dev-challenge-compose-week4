@@ -10,4 +10,16 @@
       the License.
       -->
     <string name="app_name">AndroidDevChallenge</string>
+    <string name="forecast_divider_title">Hourly Forecast</string>
+    <string name="forecast_temp_low">%s°↓</string>
+    <string name="forecast_temp">%s°</string>
+    <string name="forecast_temp_high">%s°↓</string>
+    <string name="forecast_temp_range">%1$s°/%2$s°</string>
+    <string name="forecast_temp_felt">Feels like %s°</string>
+    <string name="forecast_item_click_label">Forecast %s</string>
+    <string name="search_input_click_label">Search Button</string>
+    <string name="search_button_content_description">Search</string>
+    <string name="forecast_precipitation_probability">%s %%</string>
+    <string name="search_input_placeholder_title">City</string>
+    <string name="search_input_placeholder_subtitle">Need an umbrella? \u2602</string>
 </resources>
